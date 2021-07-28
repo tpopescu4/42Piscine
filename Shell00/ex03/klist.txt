@@ -1,0 +1,6 @@
+Credentials cache: API:5712
+        Principal: tpopescu@42MADRID.COM
+
+  Issued                Expires               Principal
+Jun 23 20:43:45 2021  Jun 24 06:43:45 2021  krbtgt/42MADRID.COM@42MADRID.COM
+Jun 23 20:43:47 2021  Jun 24 06:43:45 2021  HTTP/student-storage.42madrid.com@42MADRID.COM
